@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @razanmanandhar
+- 👋 Hi, I’m @razan
 - 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
